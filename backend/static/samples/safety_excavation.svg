@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="800" height="600" fill="#1e293b"/>
+  <!-- Ground level -->
+  <path d="M0,280 L280,280 L310,490 L560,490 L590,280 L800,280 L800,600 L0,600 Z" fill="#78350f" fill-opacity="0.8"/>
+  <text x="360" y="460" fill="#fde047" font-size="20" font-family="sans-serif" font-weight="bold">UNSHORED TRENCH</text>
+  <!-- Spoil pile surcharge warning -->
+  <ellipse cx="230" cy="255" rx="70" ry="25" fill="#a16207"/>
+  <rect x="160" y="200" width="160" height="36" rx="6" fill="#ef4444" fill-opacity="0.3" stroke="#ef4444"/>
+  <text x="170" y="224" fill="#fca5a5" font-size="12" font-family="sans-serif" font-weight="bold">SPOIL &lt; 2FT TO LIP</text>
+  <!-- Critical Alert banner -->
+  <rect x="40" y="40" width="370" height="44" rx="8" fill="#ef4444" fill-opacity="0.2" stroke="#ef4444"/>
+  <text x="60" y="68" fill="#fca5a5" font-family="sans-serif" font-size="16" font-weight="bold">CRITICAL HAZARD: OSHA Cave-in Danger</text>
+</svg>
